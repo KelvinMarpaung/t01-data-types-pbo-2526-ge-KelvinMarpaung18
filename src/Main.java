@@ -1,6 +1,5 @@
-kelvin yohanes putra
-12S24018
-
+//kelvin yohanes putra
+//12S24018
 import java.util.Scanner;
 
 public class Main {
