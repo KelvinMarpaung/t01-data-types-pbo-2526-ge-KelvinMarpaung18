@@ -1,2 +1,8 @@
 Nama:Kelvin yohanes putra
 Nim:12S24018
+berikan code dari soal di atas dalam bahasa java
+nah buatkan kode dari semua soal di atas dengan bahasa java dan berikan kode pemisah tiap soal dengan menggunakan logika if else atau switch case
+nah soal 1 dan 2 gabungkan
+nah gabungkan lagi  soal no 3
+soal 4 dan 5 juga
+coba pake logika yang tadi,sabungkan lagi soal 1,2,3dan 4
