@@ -9,9 +9,8 @@ public class Main {
         String soal = sc.next(); // Soal1, Soal2, Soal3, Soal4, Soal5
 
         if (soal.equals("Soal1")) {
-            // =========================
+          
             // SOAL 1 — Integer Overflow
-            // =========================
             int a = sc.nextInt();
             int b = sc.nextInt();
 
@@ -25,9 +24,8 @@ public class Main {
             }
 
         } else if (soal.equals("Soal2")) {
-            // =========================
+           
             // SOAL 2 — Float vs Double
-            // =========================
             double x = sc.nextDouble();
             double y = sc.nextDouble();
 
@@ -41,9 +39,8 @@ public class Main {
             System.out.printf("%.6f\n", diff);
 
         } else if (soal.equals("Soal3")) {
-            // =========================
+         
             // SOAL 3 — Primitive vs Wrapper
-            // =========================
             int n = sc.nextInt();
 
             Integer a = n;
@@ -55,9 +52,8 @@ public class Main {
             System.out.println("equals: " + a.equals(b));
 
         } else if (soal.equals("Soal4")) {
-            // =========================
+      
             // SOAL 4 — String Immutability
-            // =========================
             String s = sc.next();
 
             String a = s;
@@ -69,9 +65,8 @@ public class Main {
             System.out.println("equals: " + a.equals(b));
 
         } else if (soal.equals("Soal5")) {
-            // =========================
-            // SOAL 5 — Parsing & Type Safety
-            // =========================
+            
+            // SOAL 5 — Parsing & Type Safety 
             String intStr = sc.next();
             String doubleStr = sc.next();
             String boolStr = sc.next();
